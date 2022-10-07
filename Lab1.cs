@@ -21,7 +21,7 @@ public class MyClass{
 public class Program{
     void Main(){
         MyClass myObj = new MyClass();
-        Console.WriteLine(myObj.C)
+        Console.WriteLine(myObj.C);
     }
 
 }
